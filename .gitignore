@@ -1,3 +1,4 @@
+data/
 target/
 graphify-out/
 .mvn/wrapper/maven-wrapper.jar
